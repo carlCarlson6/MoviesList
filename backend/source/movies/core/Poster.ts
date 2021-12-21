@@ -1,0 +1,1 @@
+export type Poster = string | null;
